@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Car-Searcher/static/css/main.9ff20138.chunk.css",
+    "main.js": "/Car-Searcher/static/js/main.67915b0b.chunk.js",
+    "main.js.map": "/Car-Searcher/static/js/main.67915b0b.chunk.js.map",
+    "runtime-main.js": "/Car-Searcher/static/js/runtime-main.f41a17dc.js",
+    "runtime-main.js.map": "/Car-Searcher/static/js/runtime-main.f41a17dc.js.map",
+    "static/css/2.f3f77c00.chunk.css": "/Car-Searcher/static/css/2.f3f77c00.chunk.css",
+    "static/js/2.d4d4ba4a.chunk.js": "/Car-Searcher/static/js/2.d4d4ba4a.chunk.js",
+    "static/js/2.d4d4ba4a.chunk.js.map": "/Car-Searcher/static/js/2.d4d4ba4a.chunk.js.map",
+    "static/js/3.ffb82e0c.chunk.js": "/Car-Searcher/static/js/3.ffb82e0c.chunk.js",
+    "static/js/3.ffb82e0c.chunk.js.map": "/Car-Searcher/static/js/3.ffb82e0c.chunk.js.map",
+    "index.html": "/Car-Searcher/index.html",
+    "static/css/2.f3f77c00.chunk.css.map": "/Car-Searcher/static/css/2.f3f77c00.chunk.css.map",
+    "static/css/main.9ff20138.chunk.css.map": "/Car-Searcher/static/css/main.9ff20138.chunk.css.map",
+    "static/js/2.d4d4ba4a.chunk.js.LICENSE.txt": "/Car-Searcher/static/js/2.d4d4ba4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f41a17dc.js",
+    "static/css/2.f3f77c00.chunk.css",
+    "static/js/2.d4d4ba4a.chunk.js",
+    "static/css/main.9ff20138.chunk.css",
+    "static/js/main.67915b0b.chunk.js"
+  ]
+}
